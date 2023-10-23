@@ -9,7 +9,6 @@ white-r = rectangle(130, 70, "solid", "white")
 
 #definerer hele koden/flagget som et enkelt navn
 norges-flagg = 
-  
  overlay-align("left", "top", red-l,
   overlay-align("left", "top", white-l,
     overlay-align("left", "bottom", red-l,
